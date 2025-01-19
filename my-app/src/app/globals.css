@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.MainHeader{
+  height: 96px;
+  width: 1280px;
+}
+.UpperHeader{
+  display: flex;
+  justify-content: space-between;
+  background-color: #F5F5F5;
+  height: 36px;
+  width: 1280px;
+}
+.LowerHeader{
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  width: 1280px;
+}
